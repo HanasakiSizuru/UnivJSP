@@ -8,8 +8,8 @@
 </head>
 <body><H2> Error 테스트 페이지 </H2>
 <%
-String str = "test"
-int i = Integer.parseInt(str); 
+//String str = "test"
+//int i = Integer.parseInt(str); 
 %>
 </body>
 </html>
